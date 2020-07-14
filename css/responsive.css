@@ -1,0 +1,570 @@
+/*====================
+    EXTRA LARGE DEVICE
+=====================*/
+@media (min-width: 1200px) {}
+
+/*====================
+    LARGE DEVICE
+=====================*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .navbar .navbar-nav .nav-item {
+        padding: 32px 0 32px 25px;
+    }
+
+    .banner_part .single_slide h1 {
+        font-size: 84px;
+    }
+
+    .title_text {
+        padding: 0 108px;
+    }
+
+    #portfolio_part .title_text {
+        padding-left: 38px !important;
+    }
+
+    #portfolio_part .portfo_button button {
+        margin-left: 10px;
+    }
+
+    #about_part {
+        padding: 30px 0;
+    }
+
+    #about_part .about_text {
+        padding: 0;
+    }
+
+    #about_part .about_text .title_text h2 {
+        padding-right: 0 !important;
+    }
+
+    #about_part .about_text .title_text p {
+        padding: 0 !important;
+    }
+
+    #brand_part {
+        padding: 100px 0;
+    }
+}
+
+/*====================
+     MEDIUM DEVICE
+=====================*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .navbar {
+        padding: 16px 0 !important;
+    }
+
+    .navbar-nav {
+        background: #222222e0;
+        margin-top: 19px;
+        border-radius: 5px;
+    }
+
+    .navbar .navbar-nav .nav-item {
+        padding: 15px 0 15px 25px;
+    }
+
+    .banner_part .banner_overlay .banner_slider {
+        padding: 0;
+    }
+
+    .banner_part .single_slide h1 {
+        font-size: 70px !important;
+    }
+
+    .banner_part .left_arrow {
+        left: 0;
+    }
+
+    .banner_part .right_arrow {
+        right: 0;
+    }
+
+    .title_text {
+        padding: 0;
+    }
+
+    #skill_part {
+        padding: 100px 0;
+    }
+
+    #services_part {
+        padding: 100px 0;
+    }
+
+    #services_part .services_widget {
+        padding: 45px 30px 20px 37px;
+    }
+
+    #portfolio_part {
+        padding: 100px 0;
+    }
+
+    #portfolio_part .title_text {
+        text-align: center;
+    }
+
+    #portfolio_part .portfo_button {
+        padding: 12px 0 42px 0;
+        text-align: center;
+    }
+
+    #portfolio_part .portfo_button button {
+        margin-left: 10px;
+    }
+
+    #team_part {
+        padding: 100px 0 84px 0;
+    }
+
+    #team_part .team_widget .team_pic .team_overlay .tm_ovly_text p {
+        font-size: 13px;
+    }
+
+    #team_part .team_widget .team_pic .team_overlay .tm_ovly_text .team_icon a i {
+        height: 33px;
+        width: 33px;
+        margin: 0px;
+    }
+
+    #team_part .team_widget h4 {
+        font-size: 20px;
+        padding: 15px 0 1px 0;
+    }
+
+    #about_part {
+        padding: 30px 0;
+    }
+
+    #about_part .about_text {
+        padding: 0;
+    }
+
+    #about_part .about_text .title_text h2 {
+        padding-right: 0 !important;
+        font-size: 32px;
+    }
+
+    #about_part .about_pic img {
+        height: 367px;
+    }
+
+    #about_part .about_text .title_text p {
+        padding: 0 !important;
+    }
+
+    #blog_part {
+        padding: 100px 0;
+    }
+
+    #blog_part .blog_widget .blog_text {
+        padding: 0 0 14px 14px;
+    }
+
+    #blog_part .blog_widget .blog_text h3 {
+        padding: 14px 0 6px 0;
+    }
+
+    #blog_part .blog_widget .blog_text p {
+        padding-bottom: 14px !important;
+    }
+
+    #blog_part .blog_widget .blog_text .blog_read a {
+        padding-top: 0;
+    }
+
+    #brand_part {
+        padding: 100px 0;
+    }
+
+    #footer_part {
+        padding-top: 80px;
+    }
+
+    #footer_part .footer_widget h4 {
+        padding: 33px 0 15px 0;
+        line-height: 22px;
+    }
+
+    #footer_part .footer_widget img {
+        padding-top: 28px;
+    }
+
+    #footer_part .subfooter .footer_nav .nav-item .nav-link {
+        padding: 28px 0 14px 13px;
+    }
+}
+
+/*====================
+    SMALL DEVICE
+=====================*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .navbar {
+        padding: 16px 0 !important;
+    }
+
+
+    .navbar-nav {
+        background: #222222e0;
+        margin-top: 19px;
+        border-radius: 5px;
+    }
+
+    .navbar .navbar-nav .nav-item {
+        padding: 15px 0 15px 25px;
+    }
+
+    .banner_part .banner_overlay .banner_slider {
+        padding: 0;
+    }
+
+    .banner_part .single_slide h1 {
+        font-size: 50px !important;
+    }
+
+    .banner_part .left_arrow {
+        left: 0;
+    }
+
+    .banner_part .right_arrow {
+        right: 0;
+    }
+
+    .title_text {
+        padding: 0;
+    }
+
+    #skill_part {
+        padding: 100px 0;
+    }
+
+    #services_part {
+        padding: 100px 0;
+    }
+
+    #services_part .services_widget {
+        padding: 45px 30px 20px 37px;
+    }
+
+    #skill_part .skill_widget .skill_text h3 {
+        font-size: 19px;
+    }
+
+    #portfolio_part {
+        padding: 100px 0;
+    }
+
+    #portfolio_part .title_text {
+        text-align: center;
+    }
+
+    #portfolio_part .portfo_button {
+        padding: 12px 0 42px 0;
+        text-align: center;
+    }
+
+    #portfolio_part .portfo_button button {
+        margin-left: 10px;
+    }
+
+    #team_part {
+        padding: 100px 0 84px 0;
+    }
+
+    #team_part .team_widget .team_pic .team_overlay .tm_ovly_text {
+        padding: 0;
+    }
+
+    #team_part .team_widget .team_pic .team_overlay .tm_ovly_text p {
+        font-size: 13px;
+    }
+
+    #team_part .team_widget .team_pic .team_overlay .tm_ovly_text .team_icon a i {
+        height: 30px;
+        width: 30px;
+        margin: 0px;
+        line-height: 31px;
+    }
+
+    #team_part .team_widget h4 {
+        font-size: 20px;
+        padding: 15px 0 1px 0;
+    }
+
+    #about_part {
+        padding: 0 0 75px 15px;
+    }
+
+
+    #about_part .about_text .title_text h2 {
+        padding-right: 0 !important;
+        font-size: 32px;
+    }
+
+
+    #about_part .about_text .title_text p {
+        padding: 0 !important;
+    }
+
+    #brand_part {
+        padding: 70px 0;
+    }
+
+    #brand_part img {
+        width: 80%;
+    }
+
+    #blog_part {
+        padding: 100px 0 50px 0;
+    }
+
+    #blog_part .blog_widget {
+        margin-bottom: 50px;
+    }
+
+
+    #footer_part {
+        padding-top: 80px;
+    }
+
+
+    #footer_part .footer_widget {
+        padding-bottom: 40px;
+        text-align: center;
+    }
+
+    #footer_part .footer_widget h4 {
+        padding: 33px 0 15px 0;
+    }
+
+    #footer_part .footer_widget img {
+        padding-top: 28px;
+    }
+
+    #footer_part .footer_widget .ftwgt_box form button {
+        right: 150px;
+    }
+
+    #footer_part .subfooter p {
+        font-size: 13px;
+    }
+
+    #footer_part .subfooter .footer_nav .nav-item .nav-link {
+        padding: 28px 0 14px 1px;
+        font-size: 13px;
+    }
+}
+
+/*====================
+   EXTRA SMALL DEVICE
+=====================*/
+@media (max-width: 575.98px) {
+
+    .navbar {
+        padding: 16px 10px !important;
+    }
+
+    .navbar-nav {
+        background: #222222e0;
+        margin-top: 19px;
+        border-radius: 5px;
+    }
+
+    .navbar .navbar-nav .nav-item {
+        padding: 15px 0 15px 25px;
+    }
+
+    .banner_part .banner_overlay .banner_slider {
+        padding: 0;
+    }
+
+    .banner_part .banner_overlay .banner_slider .single_slide p {
+        font-size: 18px;
+    }
+
+    .banner_part .single_slide h1 {
+        font-size: 29px !important;
+    }
+
+    .banner_part .right_arrow img {
+        width: 68%;
+    }
+
+    .banner_part .left_arrow img {
+        width: 68%;
+    }
+
+    .banner_part .left_arrow,
+    .right_arrow {
+        top: 86%;
+    }
+
+    .banner_part .left_arrow {
+        left: 8px;
+    }
+
+    .banner_part .right_arrow {
+        right: 8px;
+    }
+
+    .title_text {
+        padding: 0;
+    }
+
+    .title_text h2 {
+        font-size: 30px;
+    }
+
+    .title_text p {
+        line-height: 21px;
+        text-align: justify;
+    }
+
+    #skill_part {
+        padding: 80px 0 40px 0;
+    }
+
+    .skill_widget {
+        padding-bottom: 50px;
+    }
+
+    #services_part {
+        padding: 80px 0;
+    }
+
+    #services_part .services_widget {
+        padding: 45px 30px 20px 37px;
+    }
+
+    #skill_part .skill_widget .skill_text h3 {
+        font-size: 19px;
+    }
+
+    #portfolio_part {
+        padding: 80px 0;
+    }
+
+    #portfolio_part .title_text {
+        text-align: center;
+    }
+
+    #portfolio_part .portfo_button {
+        padding: 12px 0 42px 0;
+        text-align: center;
+    }
+
+    #portfolio_part .portfo_button button {
+        margin-left: 10px;
+    }
+
+    #team_part {
+        padding: 80px 0 30px 0;
+    }
+
+    #team_part .team_widget {
+        margin-bottom: 50px;
+    }
+
+    #team_part .team_widget .team_pic .team_overlay .tm_ovly_text {
+        padding: 0;
+        padding-bottom: 40px;
+    }
+
+    #team_part .team_widget .team_pic .team_overlay .tm_ovly_text p {
+        font-size: 15px;
+        padding: 40px 25px;
+    }
+
+    #team_part .team_widget .team_pic .team_overlay .tm_ovly_text .team_icon a i {
+        height: 30px;
+        width: 30px;
+        margin: 0px;
+        line-height: 31px;
+    }
+
+    #team_part .team_widget h4 {
+        font-size: 20px;
+        padding: 15px 0 1px 0;
+    }
+
+    #about_part {
+        padding: 0 0 75px 15px;
+    }
+
+    #about_part .about_text {
+        padding: 59px 0 0 0;
+        text-align: center;
+    }
+
+    #about_part .about_text .title_text h2 {
+        padding-right: 0 !important;
+        font-size: 28px;
+    }
+
+
+    #brand_part {
+        padding: 70px 0;
+    }
+
+    #brand_part img {
+        width: 80%;
+    }
+
+    #blog_part {
+        padding: 80px 0 30px 0;
+    }
+
+    #blog_part .blog_widget {
+        margin-bottom: 50px;
+    }
+
+    #blog_part .blog_widget .blog_text {
+        padding: 0px 0 26px 20px;
+    }
+
+    #footer_part .footer_widget {
+        padding-bottom: 40px;
+        text-align: center;
+    }
+
+    #footer_part .footer_widget h4 {
+        padding: 33px 0 15px 0;
+        text-align: justify;
+    }
+
+    #footer_part .footer_widget img {
+        padding-top: 28px;
+    }
+
+    #footer_part .footer_widget .ftwgt_box form input {
+        width: 245px;
+    }
+
+    #footer_part .footer_widget .ftwgt_box form button {
+        right: 22px;
+    }
+
+    #footer_part .subfooter {
+        text-align: center !important;
+
+    }
+
+    #footer_part .subfooter p {
+        font-size: 13px;
+    }
+
+    .footer_nav {
+        text-align: center !important;
+    }
+
+    #footer_part .subfooter .footer_nav .nav-item .nav-link {
+        padding: 0 3px;
+        font-size: 13px;
+    }
+
+}
